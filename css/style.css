@@ -198,6 +198,9 @@ a {
  font-size: 18px;
  margin-bottom: 20px;
 }
+.fine .text .form i {
+ color: #f5bb1c;
+}
 .fine .text a {
  font-size: 20px;
  color: black;
